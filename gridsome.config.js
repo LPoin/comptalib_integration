@@ -5,6 +5,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Gridsome',
-  plugins: []
-}
+	siteName: "Comptalib Integration Test",
+	siteDescription: "An integration test for Comptalib society. Gridsome looks pretty promizing !",
+	plugins: [],
+};

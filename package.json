@@ -7,6 +7,7 @@
     "build": "gridsome build"
   },
   "dependencies": {
+    "@lottiefiles/vue-lottie-player": "^1.0.1",
     "gridsome": "^0.7.0"
   }
 }
